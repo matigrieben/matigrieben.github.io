@@ -202,9 +202,12 @@ ul.about-list li span{
 .section-title.center{
 	padding: 30px 0;
 }
-.section-title h2,
+.section-title h2{line-height: normal;},
 .section-title.center h2{
 	font-weight: 300;
+}
+.section-title.center h4{
+	line-height: 24px;
 }
 .section-title.center .line{
 	border-top: 4px solid #fcac45;
