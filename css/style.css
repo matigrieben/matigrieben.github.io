@@ -548,6 +548,7 @@ nav#footer{
 	background: #222222;
 	color: #ffffff;
 	padding: 20px 0 15px 0;
+	text-align:center; /*agregado para que se alinee en el medio*/
 }
 nav#footer .fnav{ vertical-align: middle;}
 ul.footer-social li{
