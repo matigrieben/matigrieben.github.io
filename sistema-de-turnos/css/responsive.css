@@ -1,3 +1,18 @@
+@media (max-width: 1400px){
+  #tf-home .overlay{
+    height: 750px;
+    }
+  a.fa.fa-angle-down {
+    padding: 10px 15px;
+    color: #fff;
+    border: 2px solid #b4b4b4;
+    border-radius: 50%;
+    font-size: 24px;
+    margin-top: 200px;
+    transition: all 0.5s;
+    }
+}
+
 @media (max-width: 768px){
   .content {
 	padding: 40% 0 0;
