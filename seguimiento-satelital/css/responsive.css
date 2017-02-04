@@ -1,6 +1,6 @@
 @media (max-width: 1400px){
   #tf-home .overlay{
-    height: 750px;
+    height: 1000px;
     }
   a.fa.fa-angle-down {
     padding: 10px 15px;
@@ -8,7 +8,52 @@
     border: 2px solid #b4b4b4;
     border-radius: 50%;
     font-size: 24px;
-    margin-top: 200px;
+    margin-top: 300px;
+    transition: all 0.5s;
+    }
+}
+
+@media (max-width: 1025px){
+  #tf-home .overlay{
+    height: 1000px;
+    }
+  a.fa.fa-angle-down {
+    padding: 10px 15px;
+    color: #fff;
+    border: 2px solid #b4b4b4;
+    border-radius: 50%;
+    font-size: 24px;
+    margin-top: 400px;
+    transition: all 0.5s;
+    }
+}
+
+@media (max-width: 770px){
+  #tf-home .overlay{
+    height: 1100px;
+    }
+  a.fa.fa-angle-down {
+    padding: 10px 15px;
+    color: #fff;
+    border: 2px solid #b4b4b4;
+    border-radius: 50%;
+    font-size: 24px;
+    margin-top: 400px;
+    transition: all 0.5s;
+    }
+}
+
+@media (max-width: 490px){
+  #tf-home .overlay{
+    height: 700px;
+    }
+  a.fa.fa-angle-down {
+    padding: 10px 15px;
+    color: #fff;
+    border: 2px solid #b4b4b4;
+    border-radius: 50%;
+    font-size: 24px;
+    margin-top: 150px;
     transition: all 0.5s;
     }
 }
@@ -42,6 +87,7 @@ label{
     padding: 12% 10%;
 }
 }
+
 @media (max-width: 360px){
 .hover-bg .hover-text {
     padding: 22% 10%;
