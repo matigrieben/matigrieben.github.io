@@ -28,6 +28,21 @@
     }
 }
 
+@media (max-height: 770px){
+  #tf-home .overlay{
+    height: 750px;
+    }
+  a.fa.fa-angle-down {
+    padding: 10px 15px;
+    color: #fff;
+    border: 2px solid #b4b4b4;
+    border-radius: 50%;
+    font-size: 24px;
+    margin-top: 200px;
+    transition: all 0.5s;
+    }
+}
+
 @media (max-width: 770px){
   #tf-home .overlay{
     height: 1100px;
